@@ -25,3 +25,11 @@ Octomber 25, 2024
 - H-Index II: https://leetcode.com/problems/h-index-ii/submissions/1433552989
 - Attempted LeetCode: 81. Search in Rotated Sorted Array II
 - Tried remaining questions of the Codeforces Round 981 (Div. 3) questions
+
+### Day 4
+
+Octomber 27, 2024
+- Sqrt(x): https://leetcode.com/problems/sqrtx/submissions/1434607747
+- Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/submissions/1434424557
+- Nth Digit: https://leetcode.com/problems/nth-digit/submissions/1434587151
+- Tried Leetcode Biweekly Contest 142 questions
