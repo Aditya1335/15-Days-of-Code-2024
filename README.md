@@ -28,8 +28,15 @@ Octomber 25, 2024
 
 ### Day 4
 
-Octomber 27, 2024
+Octomber 26, 2024
 - Sqrt(x): https://leetcode.com/problems/sqrtx/submissions/1434607747
 - Find the Duplicate Number: https://leetcode.com/problems/find-the-duplicate-number/submissions/1434424557
 - Nth Digit: https://leetcode.com/problems/nth-digit/submissions/1434587151
 - Tried Leetcode Biweekly Contest 142 questions
+
+### Day 5
+
+Octomber 27, 2024
+- Intersection of Two Arrays: https://leetcode.com/problems/intersection-of-two-arrays/submissions/1435607211
+- Zigzag Conversion: https://leetcode.com/problems/zigzag-conversion/submissions/1435466664
+- String to Integer (atoi): https://leetcode.com/problems/string-to-integer-atoi/submissions/1435598323
