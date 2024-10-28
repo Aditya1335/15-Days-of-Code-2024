@@ -40,3 +40,11 @@ Octomber 27, 2024
 - Intersection of Two Arrays: https://leetcode.com/problems/intersection-of-two-arrays/submissions/1435607211
 - Zigzag Conversion: https://leetcode.com/problems/zigzag-conversion/submissions/1435466664
 - String to Integer (atoi): https://leetcode.com/problems/string-to-integer-atoi/submissions/1435598323
+
+### Day 6
+
+Octomber 28, 2024
+- Roman to Integer: https://leetcode.com/problems/roman-to-integer/submissions/1436652002
+- Integer to Roman: https://leetcode.com/problems/integer-to-roman/submissions/1436566362
+
+
