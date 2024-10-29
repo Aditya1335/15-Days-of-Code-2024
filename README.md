@@ -47,4 +47,10 @@ Octomber 28, 2024
 - Roman to Integer: https://leetcode.com/problems/roman-to-integer/submissions/1436652002
 - Integer to Roman: https://leetcode.com/problems/integer-to-roman/submissions/1436566362
 
+### Day 7
 
+Octomber 29, 2024
+- Linked List Cycle: https://leetcode.com/problems/linked-list-cycle/submissions/1437656730
+- Container With Most Water: https://leetcode.com/problems/container-with-most-water/submissions/1437554722
+- Remove Nth Node From End of List: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1437609453
+- Tried some of the Questions of Educational Codeforces Round 171 (Rated for Div. 2)
