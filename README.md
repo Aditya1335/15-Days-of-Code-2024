@@ -54,3 +54,11 @@ Octomber 29, 2024
 - Container With Most Water: https://leetcode.com/problems/container-with-most-water/submissions/1437554722
 - Remove Nth Node From End of List: https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1437609453
 - Tried some of the Questions of Educational Codeforces Round 171 (Rated for Div. 2)
+
+### Day 8
+
+November 2, 2024
+- Circular Sentence: https://leetcode.com/problems/circular-sentence/submissions/1440927308
+- Defuse the Bomb: https://leetcode.com/problems/defuse-the-bomb/submissions/1441053827
+- 3Sum: https://leetcode.com/problems/3sum/submissions/1440985550
+- 3Sum Closest: https://leetcode.com/problems/3sum-closest/submissions/1441017399
