@@ -62,3 +62,11 @@ November 2, 2024
 - Defuse the Bomb: https://leetcode.com/problems/defuse-the-bomb/submissions/1441053827
 - 3Sum: https://leetcode.com/problems/3sum/submissions/1440985550
 - 3Sum Closest: https://leetcode.com/problems/3sum-closest/submissions/1441017399
+
+### Day 9
+
+November 3, 2024
+- Merge k Sorted Lists: https://leetcode.com/problems/merge-k-sorted-lists/submissions/1442145675
+- Swap Nodes in Pairs: https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1442081055
+- Started Learing Binary Tree
+- Tried Question of Codeforces Round 983 (Div. 2)
