@@ -70,3 +70,12 @@ November 3, 2024
 - Swap Nodes in Pairs: https://leetcode.com/problems/swap-nodes-in-pairs/submissions/1442081055
 - Started Learing Binary Tree
 - Tried Question of Codeforces Round 983 (Div. 2)
+
+### Day 10
+
+November 4, 2024
+- XOR Queries of a Subarray: https://leetcode.com/problems/xor-queries-of-a-subarray/submissions/1443110733
+- Merge k Sorted Lists:  https://leetcode.com/problems/merge-k-sorted-lists/submissions/1442145675
+- Valid Parentheses: https://leetcode.com/problems/valid-parentheses/submissions/1443136654
+- String Compression III: https://leetcode.com/problems/string-compression-iii/submissions/1443144937
+- continue watching video lecture on Binary Tree
