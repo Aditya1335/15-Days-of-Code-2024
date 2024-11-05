@@ -79,3 +79,12 @@ November 4, 2024
 - Valid Parentheses: https://leetcode.com/problems/valid-parentheses/submissions/1443136654
 - String Compression III: https://leetcode.com/problems/string-compression-iii/submissions/1443144937
 - continue watching video lecture on Binary Tree
+  
+### Day 11
+
+November 5, 2024
+- Merge Two Sorted Lists: https://leetcode.com/problems/merge-two-sorted-lists/submissions/1444084337
+- Pow(x, n): https://leetcode.com/problems/powx-n/submissions/1444055519
+- Count and Say: https://leetcode.com/problems/count-and-say/submissions/1444033087
+- Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1443962134
+- continue watching video lecture on Binary Tree
