@@ -88,3 +88,13 @@ November 5, 2024
 - Count and Say: https://leetcode.com/problems/count-and-say/submissions/1444033087
 - Median of Two Sorted Arrays: https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1443962134
 - continue watching video lecture on Binary Tree
+
+### Day 12
+
+November 6, 2024
+- Rotate String: https://leetcode.com/problems/rotate-string/submissions/1444541545
+- Minimum Number of Changes to Make Binary String Beautiful: https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/submissions/1444527221
+- Find if Array Can Be Sorted: https://leetcode.com/problems/find-if-array-can-be-sorted/submissions/1444519020
+- Attempted CodeChef Starter159: Score 300
+- continue watching video lecture on Binary Tree
+
