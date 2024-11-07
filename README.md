@@ -98,3 +98,10 @@ November 6, 2024
 - Attempted CodeChef Starter159: Score 300
 - continue watching video lecture on Binary Tree
 
+### Day 13
+
+November 7, 2024
+- Delete Characters to Make Fancy String: https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/1446095123
+- Multiply Strings: https://leetcode.com/problems/multiply-strings/submissions/1446162727
+- Analyse the Remaining question of CodeChef Starter159
+- continue watching video lecture on Binary Tree
